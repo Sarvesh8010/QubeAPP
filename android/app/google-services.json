@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244559057201",
+    "project_id": "qube-c9500",
+    "storage_bucket": "qube-c9500.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244559057201:android:717e0b308de66b8a112010",
+        "android_client_info": {
+          "package_name": "com.example.qubenex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApHQv_JPxGR1rq9sXXbcUhZxwAh9bJ5-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
